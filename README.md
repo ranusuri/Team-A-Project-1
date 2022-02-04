@@ -7,3 +7,7 @@ Facial covering.CSV file a guide document committed
 Started ipynd for the mask mandates
 
 First line plot "Canada"
+
+Plots for all six contries are set - the dates range was modified 
+A = '2020-01-01' - From 
+B = '2021-12-31' - To
