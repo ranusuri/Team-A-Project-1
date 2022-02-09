@@ -14,3 +14,5 @@ B = '2021-12-31' - To
 
 
 Plot all six cities together.
+
+Added daily deaths fro all six countries.
