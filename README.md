@@ -18,3 +18,5 @@ Plot all six cities together.
 Added daily deaths fro all six countries.
 
 Files clean up - plots updated
+
+Pie plots for Germany and Sweden were added.
