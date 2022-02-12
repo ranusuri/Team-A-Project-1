@@ -1,25 +1,20 @@
 # Team-A-Project-1
-This team creates all the activities for Project 1
-There is a lot of controversy surrounding Covid Mask mandates and we wanted to see if we could determine if Mask Mandates actually impacted the spread of Covid across the globe to help policy makers understand the impact of masking and make more informed decisions about masking for future Covid-19 variants and future pandemics. 
+Impact of Covid-19 Mask Mandates vs Cases
 
-Analyzed multiple Covid-19 Data Sets
-1.  Our World in Data – Face Covering Policies during the Covid-19 Pandemic
-2.  Kaggle - Omicron Daily Cases by Country
-3.  Our World in Data - Covid-cases#cumulative-confirmed-cases-per-million-people
+View and compare USA vs Global data
+  Selected 6 countries - United States, Canada, India, Japaan, Germany and Sweden
+  Date range should be from May2020 to Dec2021
 
+Data Sources: 
+  data.gov and ourworldindata.org
+  https://catalog.data.gov/dataset/u-s-state-and-territorial-public-mask-mandates-from-april-10-2020-through-january-10-2021--e0ce3
+  https://ourworldindata.org/covid-face-coverings
 
+Key discovery during preliminary data analysis showed two “waves” of Covid-19 that occurred between 2020 and 2022 that were apparent in each country we examined.
+After our research, we decided the best approach was to analyze how the timing of the mask mandates impacted the amplitude and duration of the two Covid-19 waves comparing counties on three continents, US, Europe and Asia!
 
-
-andres_pulido Folder created
-Facial covering.CSV file a guide document committed 
-
-Started ipynd for the mask mandates
-
-First line plot "Canada"
-
-Plots for all six contries are set - the dates range was modified 
-A = '2020-01-01' - From 
-B = '2021-12-31' - To
-
-
-Plot all six cities together.
+Steps:
+  Comparing the total number of cases reported in different countries with respect to their overall masking policies.
+  Comparing the total number of cases reported in different countries while adjusting for, population size, population density, and testing rigor.
+  Analyzing how the timing of the mask mandates impacted the amplitude and duration of the two Covid-19 waves.
+  Final analysis indicated that 5 out of the 6 countries with the exception of Sweden did not have enough evidence to conclude that masks had an impact on the number of individuals that became infected.
